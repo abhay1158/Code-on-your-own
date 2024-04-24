@@ -76,11 +76,11 @@ export const AboutProject = () => {
           </p>
           <p className="points">
             &#128073; &nbsp; Every user Will get a &nbsp;<code>Avatar</code>
-            &nbsp; according to their username like this - for Kunal singh
+            &nbsp; according to their username like this - for Abhay singh
             &nbsp;
             <code>Avatar</code>
             &nbsp;will be like&nbsp;&nbsp;
-            <Avatar name="Kunal Singh" size={45} round="9px" />
+            <Avatar name="Abhay Singh" size={45} round="9px" />
           </p>
         </div>
         <p className="heading">
@@ -88,27 +88,20 @@ export const AboutProject = () => {
         </p>
         <div className="social-media-handles">
           <a
-            href="https://linkedin.com/in/singhkunal01"
+            href="https://www.linkedin.com/in/abhay-pratap-singh-1203/"
             rel="noreferrer"
             target="_blank"
           >
             <i className="fa-brands fa-linkedin-in"></i>
           </a>
           <a
-            href="https://github.com/singhkunal01"
+            href="https://github.com/abhay1158"
             rel="noreferrer"
             target="_blank"
           >
             <i className="fa-brands fa-github"></i>
           </a>
-          <a
-            href="https://twitter.com/KunalSingh_01"
-            rel="noreferrer"
-            target="_blank"
-          >
-            <i className="fa-brands fa-twitter"></i>
-          </a>
-          <a href="https://t.me/altruistic_01" rel="noreferrer" target="_blank">
+          <a href="https://t.me/abhay1158" rel="noreferrer" target="_blank">
             <i className="fa-brands fa-telegram"></i>
           </a>
         </div>

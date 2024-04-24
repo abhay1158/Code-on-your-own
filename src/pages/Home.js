@@ -88,11 +88,11 @@ export const Home = () => {
         <p>
           Build With ❤ by{" "}
           <a
-            href="https://github.com/singhkunal01"
+            href="https://github.com/abhay1158"
             rel="noreferrer"
             target="_blank"
           >
-            Kunal Singh
+            Abhay Singh
           </a>
         </p>
       </footer>
